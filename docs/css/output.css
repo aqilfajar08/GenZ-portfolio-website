@@ -735,6 +735,10 @@ video {
   height: 680px;
 }
 
+.h-5{
+  height: 1.25rem;
+}
+
 .min-h-screen{
   min-height: 100vh;
 }
@@ -777,6 +781,10 @@ video {
 
 .w-full{
   width: 100%;
+}
+
+.w-3{
+  width: 0.75rem;
 }
 
 .flex-shrink-0{
@@ -907,8 +915,8 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/img\/background\/gray-concrete-wall\.jpg\'\)\]{
-  background-image: url('/img/background/gray-concrete-wall.jpg');
+.bg-\[url\(\'\/img\/gray-concrete-wall\.jpg\'\)\]{
+  background-image: url('/img/gray-concrete-wall.jpg');
 }
 
 .bg-cover{
@@ -929,6 +937,10 @@ video {
 
 .p-5{
   padding: 1.25rem;
+}
+
+.p-7{
+  padding: 1.75rem;
 }
 
 .px-2{
@@ -1103,6 +1115,10 @@ video {
 
 .ease-in-out{
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.\[lGT\:F\FFFD\FFFD\$\FFFD 0A\EKX\@\FFFDi\FFFD\10\2BF\FFFDyf\FFFD\FFFD\FFFDqk\]{
+  l-g-t: F��$�0AKX@�i�ʿ�yf���qk;
 }
 
 .hover\:scale-125:hover{
