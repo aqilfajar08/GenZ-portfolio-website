@@ -911,6 +911,10 @@ video {
   background-image: url('/img/background/gray-concrete-wall.jpg');
 }
 
+.bg-\[url\(\'img\/background\/gray-concrete-wall\.jpg\'\)\]{
+  background-image: url('img/background/gray-concrete-wall.jpg');
+}
+
 .bg-cover{
   background-size: cover;
 }
