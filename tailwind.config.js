@@ -56,8 +56,8 @@ module.exports = {
         '690px': '690px',
       },
       backgroundImage: {
-        'grayConcrete': "url('/img/gray-concrete-wall.jpg')",
-        'frame': "url('/img/6.png')",
+        'grayConcrete': "url('/img/background/gray-concrete-wall.jpg')",
+        'frame': "url('/img/background/6.png')",
 
       },
       listStyleImage: {
