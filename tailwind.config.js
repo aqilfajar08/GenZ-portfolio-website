@@ -56,12 +56,12 @@ module.exports = {
         '690px': '690px',
       },
       backgroundImage: {
-        'grayConcrete': "url('/img/background/gray-concrete-wall.jpg')",
-        'frame': "url('/img/background/6.png')",
+        'grayConcrete': "url('img/background/gray-concrete-wall.jpg')",
+        'frame': "url('img/background/6.png')",
 
       },
       listStyleImage: {
-        title: 'url("/img/PORTFOLIO.svg")',
+        title: 'url("img/PORTFOLIO.svg")',
       },
     },
   },
